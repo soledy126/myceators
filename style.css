@@ -1,0 +1,13 @@
+body
+{
+text-align: center;
+background-color: aquamarine;
+}
+
+hr
+{
+height: 6px;
+background-color:black ;
+width: 70px;
+margin: 8px auto;
+}
